@@ -14,7 +14,6 @@ The model is trained on a custom dataset containing:
 - Document images with signatures
 - Corresponding text files with bounding box coordinates in format: `x1,y1,x2,y2`
 
-```
 
 ## Model Architecture
 ```python
