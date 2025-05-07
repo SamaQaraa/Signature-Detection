@@ -1,4 +1,3 @@
-Here's a professional README.md for your GitHub repository:
 # Signature Detection using Faster R-CN
 
 A deep learning-based solution for detecting signatures in documents using Faster R-CNN with a VGG16 backbone. This project demonstrates how to train and evaluate an object detection model for signature localization.
@@ -15,13 +14,6 @@ The model is trained on a custom dataset containing:
 - Document images with signatures
 - Corresponding text files with bounding box coordinates in format: `x1,y1,x2,y2`
 
-Dataset structure:
-```
-OD Data/
-├── TrainImages/
-├── TrainGroundTruth/
-├── TestImages/
-└── TestGroundTruth/
 ```
 
 ## Model Architecture
