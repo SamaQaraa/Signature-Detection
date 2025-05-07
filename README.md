@@ -1,4 +1,4 @@
-# Signature Detection using Faster R-CN
+# Signature Detection using Faster R-CNN
 
 A deep learning-based solution for detecting signatures in documents using Faster R-CNN with a VGG16 backbone. This project demonstrates how to train and evaluate an object detection model for signature localization.
 
